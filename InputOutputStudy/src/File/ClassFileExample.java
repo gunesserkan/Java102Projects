@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 package File;
 
 import java.io.File;
 import java.io.IOException;
 
 public class ClassFileExample {
+=======
+import java.io.File;
+import java.io.IOException;
+
+public class Main {
+>>>>>>> e2a9054428be22c90f9e653ed84a45198f52364d
     public static void main(String[] args) {
         File file = new File("deneme.txt");
         //Dosya oluşturma
