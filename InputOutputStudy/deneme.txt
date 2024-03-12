@@ -1,2 +1,1 @@
-FileInputStream example, there are some word to read by java code here.
-Deneme yazısı, bu yöntem ile dosyaya yazma işlemi gerçekleştirilir.
+Buffered test
