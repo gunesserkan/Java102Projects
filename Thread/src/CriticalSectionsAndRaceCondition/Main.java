@@ -10,6 +10,7 @@ public class Main {
         List<Thread> islemler=new ArrayList<>();
         for (int i=0;i<100;i++){
             Thread t=new Thread(orderMatic);
+            islemler.add(t);
             t.start();
         }
         for (Thread t: islemler){
